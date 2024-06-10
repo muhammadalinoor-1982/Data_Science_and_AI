@@ -1,0 +1,1 @@
+OpenAI API Key Name noor = sk-proj-g5UfHgUqPhf5oeQVUepOT3BlbkFJq6EVjYrNdLYKHY1OfL03

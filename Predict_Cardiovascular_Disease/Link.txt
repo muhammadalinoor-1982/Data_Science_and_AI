@@ -1,0 +1,7 @@
+I'm pleased to share that our paper from the 26th International Conference on Computer and Information Technology (ICCIT) is now available online. 
+
+It's titled "A Voting Ensemble based Machine Learning Approach to Predict Cardiovascular Disease". 
+
+You can access the paper here:
+🔗IEEE Xplore: https://doi.org/10.1109/ICCIT60459.2023.10441059
+🔗ResearchGate: https://shorturl.at/dAEQ3 
